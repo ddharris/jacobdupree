@@ -1,9 +1,17 @@
 ---
-id: 13
+layout: default
 title: Updates
-date: '2011-08-26T22:15:58+00:00'
-author: admin
-layout: page
-guid: 'http://jacobdupree.org/?page_id=13'
+permalink: /updates/
 ---
 
+<h1>Updates</h1>
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      <br />
+      <small>{{ post.date | date: "%B %d, %Y" }}</small>
+    </li>
+  {% endfor %}
+</ul>
