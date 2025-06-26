@@ -18,4 +18,4 @@ On Tuesday, August 23rd, 2011 The Seattle Alumni Chapter of Kappa Alpha Psi held
 
 \- from the banks of KAΨ to the golden shores of Phi Nu Pi
 
- <iframe frameborder="0" height="510" src="http://www.youtube.com/embed/4NvyPg-4xCM" width="640"></iframe>
+ <iframe frameborder="0" height="510" src="https://www.youtube.com/embed/4NvyPg-4xCM" width="640"></iframe>
