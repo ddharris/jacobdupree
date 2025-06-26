@@ -1,0 +1,11 @@
+---
+id: 38
+title: 'Homegoing Service for Jacob James Dupree, Sr.'
+date: '2011-08-27T00:24:10+00:00'
+author: admin
+layout: revision
+guid: 'http://jacobdupree.org/2011/08/27/28-revision-4/'
+permalink: '/?p=38'
+---
+
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" height="782" id="viddler_ddharris_2" width="545"><param name="movie" value="//www.viddler.com/player/eb5f6dc6/"></param><param name="allowScriptAccess" value="always"></param><param name="allowNetworking" value="all"></param><param name="allowFullScreen" value="true"></param><param name="flashVars" value="f=1&autoplay=f&disablebranding=1&loop=0&hd=1"></param><embed allowfullscreen="true" allownetworking="all" allowscriptaccess="always" flashvars="f=1&autoplay=f&disablebranding=1&loop=0&hd=1" height="782" name="viddler_ddharris_2" src="//www.viddler.com/player/eb5f6dc6/" type="application/x-shockwave-flash" width="545"></embed></object>
