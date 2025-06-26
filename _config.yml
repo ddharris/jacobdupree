@@ -1,7 +1,7 @@
 title: My WordPress Blog
 description: Exported from WordPress
-baseurl: "" # leave blank for user.github.io/my-site
-url: "https://ddharris.github.io/jacobdupree"
+baseurl: "/jacobdupree" # leave blank for user.github.io/my-site
+url: "https://ddharris.github.io"
 theme: minima
 plugins:
   - jekyll-feed
