@@ -1,3 +1,7 @@
-url: 'http://jacobdupree.org'
-name: 'Jacob James Dupree, Sr.'
-description: 'Son, Brother, Husband, Father, Friend, and Educator'
+title: My WordPress Blog
+description: Exported from WordPress
+baseurl: "" # leave blank for user.github.io/my-site
+url: "https://ddharris.github.io"
+theme: minima
+plugins:
+  - jekyll-feed
