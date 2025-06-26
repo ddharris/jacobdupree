@@ -11,4 +11,4 @@ categories:
     - Video
 ---
 
-<iframe frameborder="0" height="510" src="http://www.youtube.com/embed/2OABi5LRUk0" width="640"></iframe> This interview was taken on August 5th, 2010 in Fairfield Glade, TN by David Dupree Harris, Jacob's grandson.
+<iframe frameborder="0" height="510" src="https://www.youtube.com/embed/2OABi5LRUk0" width="640"></iframe> This interview was taken on August 5th, 2010 in Fairfield Glade, TN by David Dupree Harris, Jacob's grandson.
